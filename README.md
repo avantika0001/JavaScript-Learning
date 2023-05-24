@@ -207,7 +207,7 @@ False
 
 -   No type conversion takes place before comparison.
 
-### Type onversion
+### Type Conversion
 
 #### Implicit conversion
 
